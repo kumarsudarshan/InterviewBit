@@ -1,7 +1,7 @@
+*.class
 /.idea/.gitignore
 /.idea/InterviewBit.iml
 /.idea/libraries/InterviewBit.xml
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
-*.class
